@@ -1,5 +1,5 @@
 body {
-    background-color: #f0f0f0;
+    background-color: #d17474;
     font-family: Arial, sans-serif;
     display: flex;
     justify-content: center;
@@ -10,10 +10,10 @@ body {
   
   .melding {
     font-size: 2rem;
-    color: #333;
+    color: #bb0000;
     padding: 20px 40px;
-    background-color: #fff;
-    border: 2px solid #ccc;
+    background-color: #000000;
+    border: 2px solid #40b41d;
     border-radius: 12px;
     box-shadow: 2px 4px 10px rgba(0,0,0,0.1);
   }
